@@ -1,3 +1,7 @@
 a.icon-label{
     font-size: xx-large;
 }
+
+.fas, .fab{
+    width: 100px;
+}
